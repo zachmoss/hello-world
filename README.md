@@ -1,2 +1,2 @@
 # hello-world
-First foray into this Git business
+My first foray into this Git business
